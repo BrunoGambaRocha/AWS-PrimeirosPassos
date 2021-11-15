@@ -40,9 +40,31 @@
 
 ## Andamento
 
+### [Mini Treinamento Cloud](https://www.youtube.com/watch?v=zaj0IX8dQwA&list=PLwlq4XZ8aTmfHJTNreRyqCmXVWhyF5LHo) - [Canal Cloud Treinamentos](https://www.youtube.com/c/CloudTreinamentos)
+- [x] O que é Cloud Computing
+- [x] Crescimento Vertical vs Horizontal
+- [x] O que não é Cloud Computing
+- [x] As características de Cloud
+- [x] Modelos de serviços
+- [x] Modelos de deploy
+- [x] Oportunidades no mercado de Cloud
+- [x] Vagas de emprego
+- [x] Consultoria em Cloud
+- [x] Fases de um projeto em Cloud
+- [x] Desenvolvedor
+- [x] Console
+- [x] EC2
+- [x] Computação
+- [x] Containers
+- [x] Armazenamento
+- [x] Banco de Dados
+- [x] Outros serviços importantes
+- [x] Ferramentas para desenvolvedor
+
+
 ### Preparo para a Imersão Cloud Upper
 - [x] Principais serviços de Cloud
-- [x] Hospedando Aplicações Desktop Na Nuvem
+- [x] [Hospedando Aplicações Desktop Na Nuvem](https://youtu.be/ZeMkxFG94s0)
 - [x] Oportunidades de Cloud para Profissionais de TI
 - [x] O Método que ele usou para Faturar 257 MIL
 - [x] Os Pré-Requisitos Para A Imersão Cloud Upper
@@ -100,22 +122,26 @@
 - [x] Pra que servem
 - [x] Boas práticas
 - [x] Criando usuários
-- [ ] Criando grupos de usuários
-- [ ] Definindo permissões e papeis
+- [x] Criando grupos de usuários
+- [x] Definindo permissões e papeis
 	
+#### VPC
+- [x] Desvendando as VPCs
+- [x] Estruturando suas redes
+- [x] Estrátegias para a criação de redes
+- [x] Criando redes e sub-redes
+
+#### Security Groups x ACL's
+- [x] O que são Securit Groups
+- [x] O que são ACL's
+- [x] Qual a diferença entre Security Groups e ACL's
+- [x] Quando utilizar cada um
+
 #### Key Pair
 - [ ] O que é
 - [ ] Para que serve
 - [ ] Criando par de chaves
 - [ ] Diferenças entre Key Pair e IAM
-
-#### Security Groups x ACL's
-- [ ] O que são Securit Groups
-- [ ] O que são ACL's
-- [ ] Qual a diferença entre Security Groups e ACL's
-- [ ] Quando utilizar cada um
-
-#### VPC
 
 #### EC2
 
@@ -223,14 +249,17 @@
 - [ ] Empreendendo em Cloud na Prática
 
 
-
+	
 <hr>
 
 ## Pesquisa complementar
+
+### Ferramentas
 - [x] [Moodle](https://moodle.com/pt/)
 - [x] [TSplus](http://tsplusbrasil.com.br/)
 - [x] [NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final)
 - [x] [SuiteCRM](https://suitecrm.com/)
+- [x] [Docker](https://www.docker.com/)
 - [ ] [Terraform](https://www.terraform.io/)
 - [ ] [Zabbix](https://www.zabbix.com/manuals)
 - [ ] [3CX](https://www.3cx.com.br/)
@@ -238,4 +267,29 @@
 - [ ] [Dynatrace](https://www.dynatrace.com/)
 - [ ] [StreamYard](https://streamyard.com/)
 - [ ] [Restream](https://restream.io/)
-- [ ] [Docker](https://www.docker.com/)
+
+
+### Vídeos
+- [x] [DevOps: Versionamento com Git](https://youtu.be/IjujIEW9pII)
+	- #Cloud-Treinamentos #DevOps #VM #Container #Docker #DockerHub #AWS #EC2 $#ECS
+
+- [x] [Subindo front-end vue.js na AWS sem servidor](https://youtu.be/3Ffwx4dRrJw)
+	- #Cloud-Treinamentos #Descomplicando-Cloud #Vue.js #S3 #Site-Estático #Route53 #DNS-Alias #CodeCommit #CodeBuild #CodePipeline
+
+- [x] [Criando Ambiente Replicação do Ambiente de Produção para Testes](https://youtu.be/R0KMbS-p6Tw)
+	- #Cloud-Treinamentos #RDS #EC2 #Snapshots #Instâncias #EBS #AMIs
+
+- [ ] [Como nos tornamos referência em Cloud](https://www.youtube.com/watch?v=FmFplrPDbnA)
+	- #Cloud-Treinamentos 
+
+- [ ] [BackUp Automatizado na Nuvem da AWS com Duplicate](https://youtu.be/TUL-kIfk_VY)
+	- #Cloud-Treinamentos 
+	
+- [ ] [AWS S3 com RCLONE - Enviando arquivos para Nuvem](https://youtu.be/jsy_q-RcSOo)	
+	- #Cloud-Treinamentos
+	
+- [ ] [DevOps: A Real Importância do Docker](https://youtu.be/JUUrlDvUV4g)
+	- #Cloud-Treinamentos
+
+- [ ] [Gerenciando acessos ao S3 com AWS SSO](https://youtu.be/sLr3ishHQHM)
+	- #Cloud-Treinamentos
