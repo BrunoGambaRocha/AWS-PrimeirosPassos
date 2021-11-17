@@ -1,5 +1,7 @@
 # AWS Primeiros Passos
 
+<img src="screenshot.png"/>
+
 - Instrutor: Leandro Porciuncula e Sandro Rodrigues
 - Plataforma de Ensino: [Cloud Treinamentos](https://academy.cloudtreinamentos.com/?brunogambarocha)
 - Curso: Especialização AWS 2.0 (Turma 26) + Extras
@@ -132,72 +134,180 @@
 - [x] Criando redes e sub-redes
 
 #### Security Groups x ACL's
-- [x] O que são Securit Groups
+- [x] O que são Security Groups
 - [x] O que são ACL's
 - [x] Qual a diferença entre Security Groups e ACL's
 - [x] Quando utilizar cada um
 
-#### Key Pair
-- [ ] O que é
-- [ ] Para que serve
-- [ ] Criando par de chaves
-- [ ] Diferenças entre Key Pair e IAM
-
 #### EC2
+- [x] O conceito de instâncias 
+- [x] Criando sua primeira instância
+- [x] Instâncias Windows
+- [ ] Instâncias Linux
 
-#### Volume EBS
-
-#### Snapshot
-
-#### AMIs
+#### Key Pair
+- [x] O que é
+- [x] Para que serve
+- [x] Criando par de chaves
+- [x] Diferenças entre Key Pair e IAM
 
 #### Elastic IP
+- [ ] O que é Elastic IP
+- [ ] Como usar sem pagar
+- [ ] Como configurar um Elastic IP
+- [ ] Anexando a uma instância
+
+#### Volume EBS
+- [ ] O conceito de discos virtuais
+- [ ] Como formatar um disco virtual
+- [ ] Como anexar e montar um disco de dados
+- [ ] Fazendo snapshot dos discos virtuais
+
+#### Snapshot
+- [ ] Como salvar o estado de suas instâncias
+- [ ] Backup de instâncias
+- [ ] Como restaurar um snapshot
+
+#### AMIs
+- [ ] Imagens de sistema operacional
+- [ ] Como criar uma imagem
+- [ ] Como iniciar uma instância atravês da sua imagem
+- [ ] Imagens públicas, privadas e compartilhadas
 
 #### Elastic Load Balancing
+- [ ] O que é um Load Balance
+- [ ] Criando um LB
+- [ ] Verificação de integridade do serviço
+- [ ] Recursos de segurança
+- [ ] Valores
 
 #### SNS
+- [ ] O que é SNS
+- [ ] Enviando e-mail em massa
+- [ ] Enviando SMS
 
 #### CloudWatch
+- [ ] O que é e como utilizar o monitoramento
+- [ ] Coletando métricas
+- [ ] Definindo alarmes
+- [ ] Criando dashboard
+- [ ] Configurando os Gráficos
 
 #### Auto Scaling
-
-#### RDS
-
-#### S3 - Object Storge
-
-#### Glacier
-
-#### Route 53- DNS
-
-#### CloudFront
+- [ ] Escalando a estrutura automaticamente
+- [ ] Criando grupos de autoscaling
+- [ ] Remover servidores quando não for mais necessário
+- [ ] Preços
 
 #### AWS CLI
+- [ ] Escalabilidade
+- [ ] Confiabilidade
+- [ ] Custo
+- [ ] Segurança
+- [ ] Descrição
 
-#### CloudFormation
-
-#### Lambda
-
-#### API Gateway
-
-#### CodeCommit
-
-#### CodeDeploy
-
-#### DynamoDB
-
-#### SQS
-
-#### CloudTrail
-
-#### CodePipeline - DevOps
-
-#### CodBuild - DevOps
+#### Route 53- DNS
+- [ ] Registrando seu domínio no DNS
+- [ ] Criando zonas de DNS
+- [ ] Politica de roteamento
+- [ ] Criando registros
+- [ ] Preços
 
 #### Certificate Manager
+- [ ] O que é
+- [ ] Gerando certificado
+- [ ] Usando certificado na prática
+
+#### RDS
+- [ ] Tipos de banco de dados
+- [ ] Como criar um banco
+- [ ] Replicando entre zonas
+- [ ] Valores
+
+#### S3 - Object Storage
+- [ ] Criando bucket
+- [ ] Tipos de armazenamento
+- [ ] Replicando entre regiões
+- [ ] Criando site estático
+
+#### Glacier
+- [ ] Ciclo de armazenamento com Glacier
+- [ ] Configurando backup com o Glacier
+- [ ] Restaurando arquivos do Glacier
+- [ ] Valores
+
+#### CloudFront
+- [ ] Como configurar uma CDN
+- [ ] Criando distribuição
+- [ ] Monitoramento e alarmes
+- [ ] Relatórios de cache
+
+#### CloudFormation
+- [ ] Automatizado a criação de recursos
+- [ ] Criando um stack
+- [ ] Transformando toda sua infra em código
+- [ ] Criando um script
+- [ ] Criando a estrutura pelo código
+
+#### Lambda
+- [ ] O que é functions as a service
+- [ ] Triggers
+- [ ] Autorização correta
+- [ ] Severless framework
+- [ ] Demo
+
+#### API Gateway
+- [ ] Sua primeira API
+- [ ] Stages
+- [ ] Proxy Resources
+- [ ] Autorização
+- [ ] Domínio Customizado
+
+#### CodeCommit
+- [ ] O que é
+- [ ] Como criar versões
+- [ ] Branchs
+
+#### CodeBuild - DevOps
+- [ ] O que é e por que usar
+- [ ] Quais fontes ele pode construir
+- [ ] Demo
+
+#### CodeDeploy
+- [ ] Para que serve
+- [ ] Tipos de Deploy
+- [ ] Mão na massa
+
+#### CodePipeline - DevOps
+- [ ] O que é e quais as triggers
+- [ ] Artefatos
+- [ ] Demo
+
+#### DynamoDB
+- [ ] NoSQL escalável
+- [ ] Tipos de chaves
+- [ ] Query e Scan
+- [ ] Consistencia
+- [ ] Demo
+
+#### SQS
+- [ ] Sua primeira fila em 30 segundos
+- [ ] Tipos de filas
+- [ ] Configure corretamente
+- [ ] DLQ
+
+#### CloudTrail
+- [ ] O que é
+- [ ] Configurando alarmes
+- [ ] Demo
 
 #### Seveless
+- [ ] Conceitos e motivações
+- [ ] Prós e contras
+- [ ] Padrões serveless
 
 #### Projeto Integrado
+- [ ] Juntando tudo que aprendemos e criando uma Super Estrutura
 
 
 ### Desafio dos 30 dias - Trilha Carreira
@@ -211,7 +321,7 @@
 - [x] Reunião Zoom 27/10/2021 - Aula Inaugural
 - [x] Reunião Zoom 01/11/2021
 - [x] Reunião Zoom 08/11/2021
-- [ ] Reunião Zoom 15/11/2021
+- [x] Reunião Zoom 15/11/2021
 - [ ] Reunião Zoom 22/11/2021
 - [ ] Reunião Zoom 29/11/2021
 - [ ] Reunião Zoom 06/12/2021
@@ -270,14 +380,17 @@
 
 
 ### Vídeos
-- [x] [DevOps: Versionamento com Git](https://youtu.be/IjujIEW9pII)
-	- #Cloud-Treinamentos #DevOps #VM #Container #Docker #DockerHub #AWS #EC2 $#ECS
-
 - [x] [Subindo front-end vue.js na AWS sem servidor](https://youtu.be/3Ffwx4dRrJw)
-	- #Cloud-Treinamentos #Descomplicando-Cloud #Vue.js #S3 #Site-Estático #Route53 #DNS-Alias #CodeCommit #CodeBuild #CodePipeline
+	- #Cloud-Treinamentos #Descomplicando-Cloud #Vuejs #S3 #Site-Estático #Route53 #DNS-Alias #CodeCommit #CodeBuild #CodePipeline
 
 - [x] [Criando Ambiente Replicação do Ambiente de Produção para Testes](https://youtu.be/R0KMbS-p6Tw)
 	- #Cloud-Treinamentos #RDS #EC2 #Snapshots #Instâncias #EBS #AMIs
+
+- [x] [DevOps: Versionamento com Git](https://youtu.be/IjujIEW9pII)
+	- #Cloud-Treinamentos #DevOps #VM #Container #Docker #DockerHub #AWS #EC2 #ECS
+
+- [x] [DevOps: Automatizando processos com AWS Code Pipeline](https://youtu.be/d-Qo0K-Jzw0)
+	- #Cloud-Treinamentos #CodePipeline #CodeCommit #CodeBuild #CodeDeploy
 
 - [ ] [Como nos tornamos referência em Cloud](https://www.youtube.com/watch?v=FmFplrPDbnA)
 	- #Cloud-Treinamentos 
