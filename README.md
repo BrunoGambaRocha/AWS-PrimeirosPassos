@@ -88,33 +88,33 @@
 
 ### Programa Especialização em AWS 2.0 (Turma 26 - 2021)
 
-#### Introdução a AWS
+#### [Introdução a AWS](https://aws.amazon.com/pt/what-is-aws/?nc1=f_cc)
 - [x] Escalabilidade
 - [x] Confiabilidade
 - [x] Custo x Benefício
 - [x] Descrição dos Serviços
 
 #### Valores
-- [x] O que é free
+- [x] [O que é free](https://aws.amazon.com/pt/free/)
 - [x] Como é cobrado
-- [x] Como calcular os custos
-- [x] Como ter uma previsão de quanto você vai gastar
+- [x] [Como calcular os custos](https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/)
+- [x] [Como ter uma previsão de quanto você vai gastar](https://calculator.aws/#/?nc2=h_ql_pr_calc)
 - [x] Tags
 
-#### Regiões
+#### [Regiões](https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/)
 - [x] Quantas são
 - [x] Onde estão os datacenters
 - [x] Porque conhecer as regiões
 - [x] Quais diferenças entre elas
 	
-#### Zonas de Disponinibilidade
+#### [Zonas de Disponinibilidade](https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/)
 - [x] O que são AZ's
 - [x] Quantidade de AZ's
 - [x] Comunicação entre AZ's
 - [x] Como usar seus serviços
 - [x] Verificar status dos serviços
 	
-#### Edge Location (Pontos de Presença)
+#### [Edge Location (Pontos de Presença)](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html)
 - [x] O que são
 - [x] Para que servem
 - [x] Quantidade existente
@@ -124,188 +124,190 @@
 - [x] Criação de sua conta passo a passo
 - [x] Definições de segurança
 
-#### IAM
+#### [IAM](https://aws.amazon.com/pt/iam/)
 - [x] Pra que servem
 - [x] Boas práticas
 - [x] Criando usuários
 - [x] Criando grupos de usuários
 - [x] Definindo permissões e papeis
 	
-#### VPC
+#### [VPC](https://aws.amazon.com/pt/vpc/)
 - [x] Desvendando as VPCs
 - [x] Estruturando suas redes
 - [x] Estrátegias para a criação de redes
 - [x] Criando redes e sub-redes
 
 #### Security Groups x ACL's
-- [x] O que são Security Groups
-- [x] O que são ACL's
+- [x] O que são [Security Groups](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html)
+- [x] O que são [ACL's](https://docs.aws.amazon.com/pt_br/pt_br/vpc/latest/userguide/vpc-network-acls.html)
 - [x] Qual a diferença entre Security Groups e ACL's
 - [x] Quando utilizar cada um
 
-#### EC2
+#### [EC2](https://aws.amazon.com/pt/ec2/)
 - [x] O conceito de instâncias 
 - [x] Criando sua primeira instância
 - [x] Instâncias Windows
 - [x] Instâncias Linux
+- [x] Network Interfaces
 
-#### Key Pair
+#### [Key Pair](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-key-pairs.html)
 - [x] O que é
 - [x] Para que serve
 - [x] Criando par de chaves
 - [x] Diferenças entre Key Pair e IAM
 
-#### Elastic IP
-- [ ] O que é Elastic IP
-- [ ] Como usar sem pagar
-- [ ] Como configurar um Elastic IP
-- [ ] Anexando a uma instância
+#### [Elastic IP](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html#eip-basics)
+- [x] O que é Elastic IP
+- [x] Como usar sem pagar
+- [x] Como configurar um Elastic IP
+- [x] Anexando a uma instância
 
-#### Volume EBS
-- [ ] O conceito de discos virtuais
-- [ ] Como formatar um disco virtual
-- [ ] Como anexar e montar um disco de dados
-- [ ] Fazendo snapshot dos discos virtuais
+#### [Volume EBS](https://aws.amazon.com/pt/ebs/)
+- [x] O conceito de discos virtuais
+- [x] Como formatar um disco virtual
+- [x] Como anexar e montar um disco de dados
+- [x] Fazendo snapshot dos discos virtuais
 
-#### Snapshot
-- [ ] Como salvar o estado de suas instâncias
-- [ ] Backup de instâncias
-- [ ] Como restaurar um snapshot
+#### [Snapshot](https://docs.aws.amazon.com/pt_br/pt_br/AWSEC2/latest/WindowsGuide/ebs-volumes.html#backup-benefit)
+- [x] Como salvar o estado de suas instâncias
+- [x] Backup de instâncias
+- [x] Como restaurar um snapshot
+- [x] Lifecycle Manager
 
-#### AMIs
+#### [AMIs](https://docs.aws.amazon.com/pt_br/pt_br/AWSEC2/latest/UserGuide/ec2-instances-and-amis.html)
 - [ ] Imagens de sistema operacional
 - [ ] Como criar uma imagem
 - [ ] Como iniciar uma instância atravês da sua imagem
 - [ ] Imagens públicas, privadas e compartilhadas
 
-#### Elastic Load Balancing
+#### [Elastic Load Balancing](https://aws.amazon.com/pt/elasticloadbalancing/)
 - [ ] O que é um Load Balance
 - [ ] Criando um LB
 - [ ] Verificação de integridade do serviço
 - [ ] Recursos de segurança
 - [ ] Valores
 
-#### SNS
+#### [SNS](https://aws.amazon.com/pt/sns)
 - [ ] O que é SNS
 - [ ] Enviando e-mail em massa
 - [ ] Enviando SMS
 
-#### CloudWatch
+#### [CloudWatch](https://aws.amazon.com/pt/cloudwatch/)
 - [ ] O que é e como utilizar o monitoramento
 - [ ] Coletando métricas
 - [ ] Definindo alarmes
 - [ ] Criando dashboard
 - [ ] Configurando os Gráficos
 
-#### Auto Scaling
+#### [Auto Scaling](https://aws.amazon.com/pt/ec2/autoscaling/)
 - [ ] Escalando a estrutura automaticamente
 - [ ] Criando grupos de autoscaling
 - [ ] Remover servidores quando não for mais necessário
 - [ ] Preços
 
-#### AWS CLI
+#### [AWS CLI](https://docs.aws.amazon.com/cli/index.html)
 - [ ] Escalabilidade
 - [ ] Confiabilidade
 - [ ] Custo
 - [ ] Segurança
 - [ ] Descrição
 
-#### Route 53- DNS
+#### [Route 53- DNS](https://aws.amazon.com/pt/route53/)
 - [ ] Registrando seu domínio no DNS
 - [ ] Criando zonas de DNS
 - [ ] Politica de roteamento
 - [ ] Criando registros
 - [ ] Preços
 
-#### Certificate Manager
+#### [Certificate Manager](https://docs.aws.amazon.com/pt_br/pt_br/acm/latest/userguide/acm-overview.html)
 - [ ] O que é
 - [ ] Gerando certificado
 - [ ] Usando certificado na prática
 
-#### RDS
+#### [RDS](https://aws.amazon.com/pt/rds/)
 - [ ] Tipos de banco de dados
 - [ ] Como criar um banco
 - [ ] Replicando entre zonas
 - [ ] Valores
 
-#### S3 - Object Storage
+#### [S3 - Object Storage](https://aws.amazon.com/pt/s3/)
 - [ ] Criando bucket
 - [ ] Tipos de armazenamento
 - [ ] Replicando entre regiões
 - [ ] Criando site estático
 
-#### Glacier
+#### [Glacier](https://docs.aws.amazon.com/glacier/index.html)
 - [ ] Ciclo de armazenamento com Glacier
 - [ ] Configurando backup com o Glacier
 - [ ] Restaurando arquivos do Glacier
 - [ ] Valores
 
-#### CloudFront
+#### [CloudFront](https://docs.aws.amazon.com/pt_br/pt_br/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 - [ ] Como configurar uma CDN
 - [ ] Criando distribuição
 - [ ] Monitoramento e alarmes
 - [ ] Relatórios de cache
 
-#### CloudFormation
+#### [CloudFormation](https://docs.aws.amazon.com/cloudformation/index.html)
 - [ ] Automatizado a criação de recursos
 - [ ] Criando um stack
 - [ ] Transformando toda sua infra em código
 - [ ] Criando um script
 - [ ] Criando a estrutura pelo código
 
-#### Lambda
+#### [Lambda](https://docs.aws.amazon.com/lambda/index.html)
 - [ ] O que é functions as a service
 - [ ] Triggers
 - [ ] Autorização correta
 - [ ] Severless framework
 - [ ] Demo
 
-#### API Gateway
+#### [API Gateway](https://docs.aws.amazon.com/apigateway/index.html)
 - [ ] Sua primeira API
 - [ ] Stages
 - [ ] Proxy Resources
 - [ ] Autorização
 - [ ] Domínio Customizado
 
-#### CodeCommit
+#### [CodeCommit](https://docs.aws.amazon.com/codecommit/)
 - [ ] O que é
 - [ ] Como criar versões
 - [ ] Branchs
 
-#### CodeBuild - DevOps
+#### [CodeBuild - DevOps](https://docs.aws.amazon.com/codebuild/)
 - [ ] O que é e por que usar
 - [ ] Quais fontes ele pode construir
 - [ ] Demo
 
-#### CodeDeploy
+#### [CodeDeploy](https://docs.aws.amazon.com/codedeploy/)
 - [ ] Para que serve
 - [ ] Tipos de Deploy
 - [ ] Mão na massa
 
-#### CodePipeline - DevOps
+#### [CodePipeline - DevOps](https://docs.aws.amazon.com/codepipeline/)
 - [ ] O que é e quais as triggers
 - [ ] Artefatos
 - [ ] Demo
 
-#### DynamoDB
+#### [DynamoDB](https://docs.aws.amazon.com/dynamodb/index.html)
 - [ ] NoSQL escalável
 - [ ] Tipos de chaves
 - [ ] Query e Scan
 - [ ] Consistencia
 - [ ] Demo
 
-#### SQS
+#### [SQS](https://aws.amazon.com/pt/sqs/)
 - [ ] Sua primeira fila em 30 segundos
 - [ ] Tipos de filas
 - [ ] Configure corretamente
 - [ ] DLQ
 
-#### CloudTrail
+#### [CloudTrail](https://aws.amazon.com/pt/cloudtrail/)
 - [ ] O que é
 - [ ] Configurando alarmes
 - [ ] Demo
 
-#### Seveless
+#### [Serveless](https://aws.amazon.com/pt/serverless/getting-started/?serverless.sort-by=item.additionalFields.createdDate&serverless.sort-order=desc)
 - [ ] Conceitos e motivações
 - [ ] Prós e contras
 - [ ] Padrões serveless
@@ -395,6 +397,9 @@
 
 - [x] [DevOps: Automatizando processos com AWS Code Pipeline](https://youtu.be/d-Qo0K-Jzw0)
 	- #Cloud-Treinamentos #CodePipeline #CodeCommit #CodeBuild #CodeDeploy
+
+- [ ] [Devops: Infra com código com Terraform](https://youtu.be/gy6RV2rkJ-c)
+	- #Cloud-Treinamentos
 
 - [ ] [Como nos tornamos referência em Cloud](https://www.youtube.com/watch?v=FmFplrPDbnA)
 	- #Cloud-Treinamentos 
