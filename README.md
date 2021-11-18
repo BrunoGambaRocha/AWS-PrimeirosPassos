@@ -2,6 +2,10 @@
 
 <img src="screenshot.png"/>
 
+<img src="screenshot_amazon_linux.png"/>
+
+<img src="screenshot_ubuntu_linux.png"/>
+
 - Instrutor: Leandro Porciuncula e Sandro Rodrigues
 - Plataforma de Ensino: [Cloud Treinamentos](https://academy.cloudtreinamentos.com/?brunogambarocha)
 - Curso: Especialização AWS 2.0 (Turma 26) + Extras
@@ -143,7 +147,7 @@
 - [x] O conceito de instâncias 
 - [x] Criando sua primeira instância
 - [x] Instâncias Windows
-- [ ] Instâncias Linux
+- [x] Instâncias Linux
 
 #### Key Pair
 - [x] O que é
