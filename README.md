@@ -175,10 +175,10 @@
 - [x] Lifecycle Manager
 
 #### [AMIs](https://docs.aws.amazon.com/pt_br/pt_br/AWSEC2/latest/UserGuide/ec2-instances-and-amis.html)
-- [ ] Imagens de sistema operacional
-- [ ] Como criar uma imagem
-- [ ] Como iniciar uma instância atravês da sua imagem
-- [ ] Imagens públicas, privadas e compartilhadas
+- [x] Imagens de sistema operacional
+- [x] Como criar uma imagem
+- [x] Como iniciar uma instância atravês da sua imagem
+- [x] Imagens públicas, privadas e compartilhadas
 
 #### [Elastic Load Balancing](https://aws.amazon.com/pt/elasticloadbalancing/)
 - [ ] O que é um Load Balance
@@ -341,7 +341,7 @@
 - [x] Reunião Zoom 28/10/2021
 - [x] Reunião Zoom 04/11/2021
 - [x] Reunião Zoom 11/11/2021
-- [ ] Reunião Zoom 18/11/2021
+- [x] Reunião Zoom 18/11/2021
 - [ ] Reunião Zoom 25/11/2021
 - [ ] Reunião Zoom 02/12/2021
 - [ ] Reunião Zoom 09/12/2021
@@ -376,7 +376,7 @@
 - [x] [NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final)
 - [x] [SuiteCRM](https://suitecrm.com/)
 - [x] [Docker](https://www.docker.com/)
-- [ ] [Terraform](https://www.terraform.io/)
+- [x] [Terraform](https://www.terraform.io/)
 - [ ] [Zabbix](https://www.zabbix.com/manuals)
 - [ ] [3CX](https://www.3cx.com.br/)
 - [ ] [Duplicati](https://www.duplicati.com/)
@@ -398,8 +398,8 @@
 - [x] [DevOps: Automatizando processos com AWS Code Pipeline](https://youtu.be/d-Qo0K-Jzw0)
 	- #Cloud-Treinamentos #CodePipeline #CodeCommit #CodeBuild #CodeDeploy
 
-- [ ] [Devops: Infra com código com Terraform](https://youtu.be/gy6RV2rkJ-c)
-	- #Cloud-Treinamentos
+- [x] [Devops: Infra com código com Terraform](https://youtu.be/gy6RV2rkJ-c)
+	- #Cloud-Treinamentos #Terraform #InfraAsCode
 
 - [ ] [Como nos tornamos referência em Cloud](https://www.youtube.com/watch?v=FmFplrPDbnA)
 	- #Cloud-Treinamentos 
