@@ -1,10 +1,14 @@
 # AWS Primeiros Passos
 
-<img src="screenshot.png"/>
+[![Elastic Load Balance - Classic Load Balancer](https://img.youtube.com/vi/r8u2L8R9jFg/0.jpg)](https://youtu.be/r8u2L8R9jFg)
 
-<img src="screenshot_amazon_linux.png"/>
+[![Elastic Load Balance - Application Load Balancer](https://img.youtube.com/vi/2QM49U_4TMk/0.jpg)](https://youtu.be/2QM49U_4TMk)
 
-<img src="screenshot_ubuntu_linux.png"/>
+[![Elastic Load Balance - Network Load Balance](https://img.youtube.com/vi/VN0zjgFpZ9c/0.jpg)](https://youtu.be/VN0zjgFpZ9c)
+
+
+
+<hr>
 
 - Instrutor: Leandro Porciuncula e Sandro Rodrigues
 - Plataforma de Ensino: [Cloud Treinamentos](https://academy.cloudtreinamentos.com/?brunogambarocha)
@@ -181,11 +185,12 @@
 - [x] Imagens públicas, privadas e compartilhadas
 
 #### [Elastic Load Balancing](https://aws.amazon.com/pt/elasticloadbalancing/)
-- [ ] O que é um Load Balance
-- [ ] Criando um LB
-- [ ] Verificação de integridade do serviço
-- [ ] Recursos de segurança
-- [ ] Valores
+- [x] O que é um Load Balance
+- [x] Criando um LB
+- [x] Tipos de LB
+- [x] Verificação de integridade do serviço
+- [x] Recursos de segurança
+- [x] Valores
 
 #### [SNS](https://aws.amazon.com/pt/sns)
 - [ ] O que é SNS
@@ -317,7 +322,7 @@
 
 
 ### Desafio dos 30 dias - Trilha Carreira
-- [ ] Semana 1
+- [x] Semana 1
 - [ ] Semana 2
 - [ ] Semana 3
 - [ ] Semana 4
