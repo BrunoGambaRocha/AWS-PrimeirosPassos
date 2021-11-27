@@ -1,10 +1,10 @@
 # AWS Primeiros Passos
 
-[![Elastic Load Balance - Classic Load Balancer](https://img.youtube.com/vi/r8u2L8R9jFg/0.jpg)](https://youtu.be/r8u2L8R9jFg)
+[![Elastic Load Balancing - Classic Load Balancer](https://img.youtube.com/vi/r8u2L8R9jFg/0.jpg)](https://youtu.be/r8u2L8R9jFg)
 
-[![Elastic Load Balance - Application Load Balancer](https://img.youtube.com/vi/2QM49U_4TMk/0.jpg)](https://youtu.be/2QM49U_4TMk)
+[![Elastic Load Balancing - Application Load Balancer](https://img.youtube.com/vi/2QM49U_4TMk/0.jpg)](https://youtu.be/2QM49U_4TMk)
 
-[![Elastic Load Balance - Network Load Balance](https://img.youtube.com/vi/VN0zjgFpZ9c/0.jpg)](https://youtu.be/VN0zjgFpZ9c)
+[![Elastic Load Balancing - Network Load Balancer](https://img.youtube.com/vi/VN0zjgFpZ9c/0.jpg)](https://youtu.be/VN0zjgFpZ9c)
 
 
 
@@ -84,7 +84,7 @@
 - [x] Dia 1 - Iniciando um Projeto de Cloud
 - [x] Dia 2 - Deixando a aplicação em Alta Disponibilidade
 - [x] Dia 3 - Criando atualizações automatizadas
-- [x] Dia 4 - O Pulo do Gato / Próximo Nível (Segredo do Load Balance!)
+- [x] Dia 4 - O Pulo do Gato / Próximo Nível (Segredo do Load Balancer!)
 - [x] Dia 5 - Painel com Uppers
 - [x] Dia 6 - Como precificar o Projeto
 - [x] Dia 7 - A Cereja do Bolo / Revisão arquitetura utilizando Containers
@@ -185,7 +185,7 @@
 - [x] Imagens públicas, privadas e compartilhadas
 
 #### [Elastic Load Balancing](https://aws.amazon.com/pt/elasticloadbalancing/)
-- [x] O que é um Load Balance
+- [x] O que é um Load Balancer
 - [x] Criando um LB
 - [x] Tipos de LB
 - [x] Verificação de integridade do serviço
@@ -333,7 +333,7 @@
 - [x] Reunião Zoom 01/11/2021
 - [x] Reunião Zoom 08/11/2021
 - [x] Reunião Zoom 15/11/2021
-- [ ] Reunião Zoom 22/11/2021
+- [x] Reunião Zoom 22/11/2021
 - [ ] Reunião Zoom 29/11/2021
 - [ ] Reunião Zoom 06/12/2021
 - [ ] Reunião Zoom 13/12/2021
@@ -347,7 +347,7 @@
 - [x] Reunião Zoom 04/11/2021
 - [x] Reunião Zoom 11/11/2021
 - [x] Reunião Zoom 18/11/2021
-- [ ] Reunião Zoom 25/11/2021
+- [x] Reunião Zoom 25/11/2021
 - [ ] Reunião Zoom 02/12/2021
 - [ ] Reunião Zoom 09/12/2021
 - [ ] Reunião Zoom 16/12/2021
@@ -364,7 +364,7 @@
 - [x] Curso Backup Deviceless
 - [x] Curso Multiplicando seu Tempo - Sandro Rodrigues
 - [ ] Curso Profissional Cloud
-- [ ] Emprego - Como fazer ele te encontrar - Raqueline Benchimol
+- [x] Emprego - Como fazer ele te encontrar - Raqueline Benchimol
 - [ ] Curso como vender serviços de Cloud + acompanhamento - Sandro Rodrigues
 - [ ] Imersão de Containers
 - [ ] Empreendendo em Cloud na Prática
@@ -390,6 +390,10 @@
 - [ ] [Restream](https://restream.io/)
 
 
+### Labs
+- [ ] [Tutoriais práticos para suas necessidades da AWS](https://aws.amazon.com/pt/getting-started/hands-on/?awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
+
+
 ### Vídeos
 - [x] [Subindo front-end vue.js na AWS sem servidor](https://youtu.be/3Ffwx4dRrJw)
 	- #Cloud-Treinamentos #Descomplicando-Cloud #Vuejs #S3 #Site-Estático #Route53 #DNS-Alias #CodeCommit #CodeBuild #CodePipeline
@@ -404,7 +408,31 @@
 	- #Cloud-Treinamentos #CodePipeline #CodeCommit #CodeBuild #CodeDeploy
 
 - [x] [Devops: Infra com código com Terraform](https://youtu.be/gy6RV2rkJ-c)
-	- #Cloud-Treinamentos #Terraform #InfraAsCode
+	- #Cloud-Treinamentos #DevOps #Terraform #InfraAsCode
+
+- [x] [Devops: Como Vai Funcionar o DevOps Cloud Week](https://youtu.be/YdSU1dOdWnk)
+	- #Cloud-Treinamentos #DevOps
+
+- [x] [DevOps: A Real Importância do Docker](https://youtu.be/JUUrlDvUV4g)
+	- #Cloud-Treinamentos #DevOps
+	
+- [x] [Devops: Preparação ambiente - DevOps Cloud Week](https://youtu.be/4ILrWQuuyXQ)
+	- #Cloud-Treinamentos #DevOps
+	
+- [ ] Devops: Dia 1 - DevOps Cloud Week - aguardando dia 29/11/2021
+	- #Cloud-Treinamentos #DevOps
+
+- [ ] Devops: Dia 2 - DevOps Cloud Week - aguardando dia 30/11/2021
+	- #Cloud-Treinamentos #DevOps
+
+- [ ] Devops: Dia 3 - DevOps Cloud Week - aguardando dia 01/12/2021
+	- #Cloud-Treinamentos #DevOps
+
+- [ ] Devops: Dia 4 - DevOps Cloud Week - aguardando dia 02/12/2021
+	- #Cloud-Treinamentos #DevOps
+
+- [ ] Devops: Dia 5 - DevOps Cloud Week - aguardando dia 03/12/2021
+	- #Cloud-Treinamentos #DevOps
 
 - [ ] [Como nos tornamos referência em Cloud](https://www.youtube.com/watch?v=FmFplrPDbnA)
 	- #Cloud-Treinamentos 
@@ -414,9 +442,9 @@
 	
 - [ ] [AWS S3 com RCLONE - Enviando arquivos para Nuvem](https://youtu.be/jsy_q-RcSOo)	
 	- #Cloud-Treinamentos
-	
-- [ ] [DevOps: A Real Importância do Docker](https://youtu.be/JUUrlDvUV4g)
-	- #Cloud-Treinamentos
 
 - [ ] [Gerenciando acessos ao S3 com AWS SSO](https://youtu.be/sLr3ishHQHM)
 	- #Cloud-Treinamentos
+
+- [ ] [Laboratórios AWS](https://aws.amazon.com/pt/getting-started/hands-on/?awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
+	- #AWS	
