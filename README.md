@@ -193,7 +193,7 @@
 - [x] Valores
 
 #### [SNS](https://aws.amazon.com/pt/sns)
-- [ ] O que é SNS
+- [x] O que é SNS
 - [ ] Enviando e-mail em massa
 - [ ] Enviando SMS
 
@@ -348,7 +348,6 @@
 - [x] Reunião Zoom 11/11/2021
 - [x] Reunião Zoom 18/11/2021
 - [x] Reunião Zoom 25/11/2021
-- [ ] Reunião Zoom 02/12/2021
 - [ ] Reunião Zoom 09/12/2021
 - [ ] Reunião Zoom 16/12/2021
 - [ ] Reunião Zoom 23/12/2021
@@ -380,8 +379,11 @@
 - [x] [TSplus](http://tsplusbrasil.com.br/)
 - [x] [NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final)
 - [x] [SuiteCRM](https://suitecrm.com/)
-- [x] [Docker](https://www.docker.com/)
+- [x] [GitLab](https://docs.gitlab.com/)
+- [x] [Docker](https://docker.com/)
+- [x] [Docker Hub ](https://hub.docker.com/)
 - [x] [Terraform](https://www.terraform.io/)
+- [x] [Jenkins](https://www.jenkins.io/)
 - [ ] [Zabbix](https://www.zabbix.com/manuals)
 - [ ] [3CX](https://www.3cx.com.br/)
 - [ ] [Duplicati](https://www.duplicati.com/)
@@ -419,22 +421,37 @@
 - [x] [Devops: Preparação ambiente - DevOps Cloud Week](https://youtu.be/4ILrWQuuyXQ)
 	- #Cloud-Treinamentos #DevOps
 	
-- [ ] Devops: Dia 1 - DevOps Cloud Week - aguardando dia 29/11/2021
-	- #Cloud-Treinamentos #DevOps
+- [x] Devops: Dia 1 - DevOps Cloud Week
+	- #Cloud-Treinamentos #DevOps #Git #Gitlab #AWS #EC2 #Jenkins #Docker
 
-- [ ] Devops: Dia 2 - DevOps Cloud Week - aguardando dia 30/11/2021
-	- #Cloud-Treinamentos #DevOps
+- [x] Devops: Dia 2 - DevOps Cloud Week
+	- #Cloud-Treinamentos #DevOps #Git #Gitlab #AWS #EC2 #Jenkins #Docker
 
-- [ ] Devops: Dia 3 - DevOps Cloud Week - aguardando dia 01/12/2021
-	- #Cloud-Treinamentos #DevOps
+- [x] Devops: Dia 3 - DevOps Cloud Week
+	- #Cloud-Treinamentos #DevOps #Git #Gitlab #AWS #EC2 #S3 #CodeDeploy #Jenkins #Docker #DockerHub
 
-- [ ] Devops: Dia 4 - DevOps Cloud Week - aguardando dia 02/12/2021
-	- #Cloud-Treinamentos #DevOps
+- [x] Devops: Dia 4 - DevOps Cloud Week
+	- #Cloud-Treinamentos #DevOps #Git #Gitlab #AWS #EC2 #S3 #CodeDeploy #Jenkins #Docker #DockerHub #DeployAutomatizado
 
-- [ ] Devops: Dia 5 - DevOps Cloud Week - aguardando dia 03/12/2021
-	- #Cloud-Treinamentos #DevOps
+- [x] Devops: Dia 5 - DevOps Cloud Week
+	- #Cloud-Treinamentos #DevOps #PainelComProfissionaisDevOps
 
-- [ ] [Como nos tornamos referência em Cloud](https://www.youtube.com/watch?v=FmFplrPDbnA)
+- [x] Devops: Dia 6 - DevOps Cloud Week
+	- #Cloud-Treinamentos #DevOps #Terraform #IaC #AWS
+	
+- [x] [Especialista em Cloud ou Gambiarrista](https://youtu.be/2SwznTxiKmA)
+	- #Cloud-Treinamentos
+	
+- [x] [Criando uma imagem Docker](https://youtu.be/qIGxp9k3b1w)
+	- #Cloud-Treinamentos #docker #dockerfile #docker-compose #docker-principais-comandos
+	
+- [x] [Trabalhando com GIT na prática](https://youtu.be/vIIzT5hNtIQ)
+	- #Cloud-Treinamentos #git #git-principais-comandos	#gitlab
+	
+- [x] [Iniciando com Docker](https://youtu.be/bHSp7tqPT18)
+	- #Cloud-Treinamentos #docker [#swarm](https://docs.docker.com/engine/swarm/) [#traefik](https://doc.traefik.io/traefik/providers/docker/) #docker-hub
+	
+- [ ] [Como nos tornamos referência em Cloud](https://youtu.be/FmFplrPDbnA)
 	- #Cloud-Treinamentos 
 
 - [ ] [BackUp Automatizado na Nuvem da AWS com Duplicate](https://youtu.be/TUL-kIfk_VY)
@@ -447,4 +464,4 @@
 	- #Cloud-Treinamentos
 
 - [ ] [Laboratórios AWS](https://aws.amazon.com/pt/getting-started/hands-on/?awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
-	- #AWS	
+	- #AWS
