@@ -194,8 +194,9 @@
 
 #### [SNS](https://aws.amazon.com/pt/sns)
 - [x] O que é SNS
-- [ ] Enviando e-mail em massa
-- [ ] Enviando SMS
+- [x] Enviando e-mail em massa
+- [x] Enviando SMS
+- [x] Notificações por push
 
 #### [CloudWatch](https://aws.amazon.com/pt/cloudwatch/)
 - [ ] O que é e como utilizar o monitoramento
@@ -348,7 +349,7 @@
 - [x] Reunião Zoom 11/11/2021
 - [x] Reunião Zoom 18/11/2021
 - [x] Reunião Zoom 25/11/2021
-- [ ] Reunião Zoom 09/12/2021
+- [x] Reunião Zoom 09/12/2021
 - [ ] Reunião Zoom 16/12/2021
 - [ ] Reunião Zoom 23/12/2021
 - [ ] Reunião Zoom 30/12/2021
