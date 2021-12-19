@@ -199,11 +199,14 @@
 - [x] Notificações por push
 
 #### [CloudWatch](https://aws.amazon.com/pt/cloudwatch/)
-- [ ] O que é e como utilizar o monitoramento
-- [ ] Coletando métricas
-- [ ] Definindo alarmes
-- [ ] Criando dashboard
-- [ ] Configurando os Gráficos
+- [x] O que é e como utilizar o monitoramento
+- [x] Coletando métricas
+- [x] Definindo alarmes
+- [x] Criando dashboard
+- [x] Configurando os Gráficos
+- [x] Eventos
+- [x] [Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/QuickStartEC2Instance.html) 
+- [x] [Instalando awslogs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/AgentReference.html) 
 
 #### [Auto Scaling](https://aws.amazon.com/pt/ec2/autoscaling/)
 - [ ] Escalando a estrutura automaticamente
@@ -337,10 +340,10 @@
 - [x] Reunião Zoom 22/11/2021
 - [ ] Reunião Zoom 29/11/2021
 - [ ] Reunião Zoom 06/12/2021
-- [ ] Reunião Zoom 13/12/2021
+- [x] Reunião Zoom 13/12/2021
 - [ ] Reunião Zoom 20/12/2021
-- [ ] Reunião Zoom 27/12/2021
 - [ ] Reunião Zoom 03/01/2022
+- [ ] Reunião Zoom 10/01/2022
 
 
 ### Mentoria VIP
@@ -350,10 +353,10 @@
 - [x] Reunião Zoom 18/11/2021
 - [x] Reunião Zoom 25/11/2021
 - [x] Reunião Zoom 09/12/2021
-- [ ] Reunião Zoom 16/12/2021
-- [ ] Reunião Zoom 23/12/2021
-- [ ] Reunião Zoom 30/12/2021
+- [x] Reunião Zoom 16/12/2021
 - [ ] Reunião Zoom 06/01/2022
+- [ ] Reunião Zoom 13/01/2022
+- [ ] Reunião Zoom 20/01/2022
 
 
 ### Mentoria Individual - Leandro Porciuncula
@@ -385,6 +388,7 @@
 - [x] [Docker Hub ](https://hub.docker.com/)
 - [x] [Terraform](https://www.terraform.io/)
 - [x] [Jenkins](https://www.jenkins.io/)
+- [x] [Portainer](https://portainer.io/)
 - [ ] [Zabbix](https://www.zabbix.com/manuals)
 - [ ] [3CX](https://www.3cx.com.br/)
 - [ ] [Duplicati](https://www.duplicati.com/)
@@ -466,3 +470,8 @@
 
 - [ ] [Laboratórios AWS](https://aws.amazon.com/pt/getting-started/hands-on/?awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
 	- #AWS
+	
+- [ ] [Servidor de Arquivos + AD em Nuvem sem Servidor](https://youtu.be/nBi6-0oqspQ)
+	- #Cloud-Treinamentos
+	
+	
