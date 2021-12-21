@@ -191,6 +191,9 @@
 - [x] Verificação de integridade do serviço
 - [x] Recursos de segurança
 - [x] Valores
+- [x] [Meu Lab Classic ELB](https://youtu.be/r8u2L8R9jFg)
+- [x] [Meu Lab Application ELB](https://youtu.be/2QM49U_4TMk)
+- [x] [Meu Lab Network ELB](https://youtu.be/VN0zjgFpZ9c)
 
 #### [SNS](https://aws.amazon.com/pt/sns)
 - [x] O que é SNS
@@ -208,11 +211,18 @@
 - [x] [Logs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/QuickStartEC2Instance.html) 
 - [x] [Instalando awslogs](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/logs/AgentReference.html) 
 
-#### [Auto Scaling](https://aws.amazon.com/pt/ec2/autoscaling/)
-- [ ] Escalando a estrutura automaticamente
-- [ ] Criando grupos de autoscaling
-- [ ] Remover servidores quando não for mais necessário
-- [ ] Preços
+#### [Auto Scaling](https://aws.amazon.com/pt/autoscaling/)
+- [x] Preços
+- [x] Escalando a estrutura automaticamente
+- [x] Criando grupos de autoscaling
+- [x] Remover servidores quando não for mais necessário
+- [x] Escalabilidade de rastreamento
+- [ ] Escalabilidade simples
+- [ ] Escalabilidade por etapas
+- [x] [Meu Lab Escalabilidade Agendamento](https://youtu.be/UHxA_I6QVCQ)
+- [x] [Meu Lab Escalabilidade dinâmica por utilização CPU](https://youtu.be/l3Ddtuzw2-g)
+- [ ] Meu Lab Escalabilidade Simples
+- [ ] Meu Lab Escalabilidade Etapas
 
 #### [AWS CLI](https://docs.aws.amazon.com/cli/index.html)
 - [ ] Escalabilidade
@@ -341,7 +351,12 @@
 - [ ] Reunião Zoom 29/11/2021
 - [ ] Reunião Zoom 06/12/2021
 - [x] Reunião Zoom 13/12/2021
-- [ ] Reunião Zoom 20/12/2021
+- [x] Reunião Zoom 20/12/2021
+	- [x] Troubleshoot: instância não logando por SSH, servidor apache da VM inacessível pela internet, acesso a https de dentro da instância para fora não acessível.
+	- [x] Script para liberação do IP a acesso a VM.
+	- [x] [Pesquisa por comandos adicionais AWS CLI](https://github.com/aws/aws-cli/tree/develop/awscli/examples)
+		- [Documentação](https://github.com/aws/aws-cli/tree/develop/awscli/examples)
+		- [Repositório Exemplos](https://docs.aws.amazon.com/pt_br/cli/)
 - [ ] Reunião Zoom 03/01/2022
 - [ ] Reunião Zoom 10/01/2022
 
