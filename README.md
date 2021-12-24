@@ -217,11 +217,11 @@
 - [x] Criando grupos de autoscaling
 - [x] Remover servidores quando não for mais necessário
 - [x] Escalabilidade de rastreamento
-- [ ] Escalabilidade simples
-- [ ] Escalabilidade por etapas
+- [x] Escalabilidade simples
+- [x] Escalabilidade por etapas
 - [x] [Meu Lab Escalabilidade Agendamento](https://youtu.be/UHxA_I6QVCQ)
 - [x] [Meu Lab Escalabilidade dinâmica por utilização CPU](https://youtu.be/l3Ddtuzw2-g)
-- [ ] Meu Lab Escalabilidade Simples
+- [x] Meu Lab Escalabilidade Simples
 - [ ] Meu Lab Escalabilidade Etapas
 
 #### [AWS CLI](https://docs.aws.amazon.com/cli/index.html)
