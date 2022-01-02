@@ -21,7 +21,7 @@
 ##  Objetivo
 
 - Repositório para acompanhamento da minha evolução em Cloud Computing.
-- Entender os conceitos, práticar e entregar soluções Cloud Computing e DevOps.
+- Entender os conceitos, praticar e entregar soluções Cloud Computing e DevOps.
 - Entregar soluções modernas para qualquer Cloud (AWS, Azure, GCP), entendendo o conceito e não apenas as configurações dos serviços de uma determinada empresa.
 - Backup para empresas
 - [Arquitetura Serverless](https://aws.amazon.com/pt/serverless/)
@@ -221,7 +221,7 @@
 - [x] Escalabilidade por etapas
 - [x] [Meu Lab Escalabilidade Agendamento](https://youtu.be/UHxA_I6QVCQ)
 - [x] [Meu Lab Escalabilidade dinâmica por utilização CPU](https://youtu.be/l3Ddtuzw2-g)
-- [x] Meu Lab Escalabilidade Simples
+- [x] [Meu Lab Escalabilidade Simples](https://youtu.be/avrKlMABIc4)
 - [ ] Meu Lab Escalabilidade Etapas
 
 #### [AWS CLI](https://docs.aws.amazon.com/cli/index.html)
@@ -337,7 +337,7 @@
 
 ### Desafio dos 30 dias - Trilha Carreira
 - [x] Semana 1
-- [ ] Semana 2
+- [x] Semana 2
 - [ ] Semana 3
 - [ ] Semana 4
 
@@ -348,8 +348,8 @@
 - [x] Reunião Zoom 08/11/2021
 - [x] Reunião Zoom 15/11/2021
 - [x] Reunião Zoom 22/11/2021
-- [ ] Reunião Zoom 29/11/2021
-- [ ] Reunião Zoom 06/12/2021
+- [x] Reunião Zoom 29/11/2021
+- [x] Reunião Zoom 06/12/2021
 - [x] Reunião Zoom 13/12/2021
 - [x] Reunião Zoom 20/12/2021
 	- [x] Troubleshoot: instância não logando por SSH, servidor apache da VM inacessível pela internet, acesso a https de dentro da instância para fora não acessível.
@@ -357,8 +357,8 @@
 	- [x] [Pesquisa por comandos adicionais AWS CLI](https://github.com/aws/aws-cli/tree/develop/awscli/examples)
 		- [Documentação](https://github.com/aws/aws-cli/tree/develop/awscli/examples)
 		- [Repositório Exemplos](https://docs.aws.amazon.com/pt_br/cli/)
-- [ ] Reunião Zoom 03/01/2022
 - [ ] Reunião Zoom 10/01/2022
+- [ ] Reunião Zoom 17/01/2022
 
 
 ### Mentoria VIP
