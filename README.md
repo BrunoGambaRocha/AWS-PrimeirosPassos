@@ -225,11 +225,43 @@
 - [ ] Meu Lab Escalabilidade Etapas
 
 #### [AWS CLI](https://docs.aws.amazon.com/cli/index.html)
-- [ ] Escalabilidade
-- [ ] Confiabilidade
-- [ ] Custo
-- [ ] Segurança
-- [ ] Descrição
+- [x] O que é o CLI
+- [x] Custo
+- [x] Segurança
+- [x] Instalando CLI no Windows
+- [x] Instalando CLI no Linux
+- [x] Configurando o CLI
+- [x] S3 com CLI
+- [x] EC2 com CLI
+- [x] Volumes
+- [x] Profiles
+	- aws configure --profile contab
+		- Default
+			- aws s3 ls
+		- Profile
+			- aws s3 ls --profile contab
+- [x] [Variáveis de Ambiente](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-envvars.html)
+	- Windows CMD
+		- setx AWS_ACCESS_KEY_ID KEY-ID-VALUE
+		- setx AWS_SECRET_ACCESS_KEY SECRET-KEY-VALUE
+		- setx AWS_DEFAULT_REGION us-east-1
+	- Windows PowerShell
+		- $Env:AWS_ACCESS_KEY_ID="KEY-ID-VALUE"
+		- $Env:AWS_SECRET_ACCESS_KEY="SECRET-KEY-VALUE"
+		- $Env:AWS_DEFAULT_REGION="us-west-1"
+	- LINUX ou macOS
+		- export AWS_ACCESS_KEY_ID=KEY-ID-VALUE
+		- export AWS_SECRET_ACCESS_KEY=SECRET-KEY-VALUE
+		- export AWS_DEFAULT_REGION=us-west-1	
+	- Alterando o caminho padrão das configurações CLI com CMD no Windows
+		- setx AWS_CONFIG_FILE C:\site\.cloud\config 
+		- setx AWS_SHARED_CREDENTIALS_FILE C:\site\.cloud\credentials 
+		- attrib +h C:\site\.cloud
+- [x] [Metadata](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/instancedata-data-categories.html)
+	- curl http://169.254.169.254/latest/meta-data/
+	- curl http://169.254.169.254/latest/user-data
+	- curl http://169.254.169.254/latest/dynamic/
+- [x] [Userdata](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html)
 
 #### [Route 53- DNS](https://aws.amazon.com/pt/route53/)
 - [ ] Registrando seu domínio no DNS
@@ -357,7 +389,7 @@
 	- [x] [Pesquisa por comandos adicionais AWS CLI](https://github.com/aws/aws-cli/tree/develop/awscli/examples)
 		- [Documentação](https://github.com/aws/aws-cli/tree/develop/awscli/examples)
 		- [Repositório Exemplos](https://docs.aws.amazon.com/pt_br/cli/)
-- [ ] Reunião Zoom 10/01/2022
+- [x] Reunião Zoom 10/01/2022
 - [ ] Reunião Zoom 17/01/2022
 
 
@@ -369,8 +401,7 @@
 - [x] Reunião Zoom 25/11/2021
 - [x] Reunião Zoom 09/12/2021
 - [x] Reunião Zoom 16/12/2021
-- [ ] Reunião Zoom 06/01/2022
-- [ ] Reunião Zoom 13/01/2022
+- [x] Reunião Zoom 13/01/2022
 - [ ] Reunião Zoom 20/01/2022
 
 
@@ -487,6 +518,9 @@
 	- #AWS
 	
 - [ ] [Servidor de Arquivos + AD em Nuvem sem Servidor](https://youtu.be/nBi6-0oqspQ)
+	- #Cloud-Treinamentos
+
+- [ ] [Executando Comandos na EC2 com Lambda e S3](https://www.youtube.com/watch?v=feNI2cGrro0)
 	- #Cloud-Treinamentos
 	
 	
