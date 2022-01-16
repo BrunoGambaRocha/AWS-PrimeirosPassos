@@ -263,12 +263,21 @@
 	- curl http://169.254.169.254/latest/dynamic/
 - [x] [Userdata](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html)
 
-#### [Route 53- DNS](https://aws.amazon.com/pt/route53/)
-- [ ] Registrando seu domínio no DNS
-- [ ] Criando zonas de DNS
-- [ ] Politica de roteamento
-- [ ] Criando registros
-- [ ] Preços
+#### [Route 53 - DNS](https://aws.amazon.com/pt/route53/)
+- [x] Preços
+- [x] Registrando seu domínio no DNS
+- [x] Criando zonas de DNS
+- [x] Criando registros
+- [x] [Verificação de Integridade](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/dns-failover.html)
+- [x] [Politica de roteamento](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy.html)
+		- Simples
+		- Ponderado
+		- Geolocalização
+		- Latência
+		- Failover
+		- Resposta de vários valores
+- [x] [Fluxo de tráfego](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/traffic-flow.html)
+- [x] [Resolver](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resolver-getting-started.html)
 
 #### [Certificate Manager](https://docs.aws.amazon.com/pt_br/pt_br/acm/latest/userguide/acm-overview.html)
 - [ ] O que é
