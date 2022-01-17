@@ -280,9 +280,12 @@
 - [x] [Resolver](https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resolver-getting-started.html)
 
 #### [Certificate Manager](https://docs.aws.amazon.com/pt_br/pt_br/acm/latest/userguide/acm-overview.html)
-- [ ] O que é
-- [ ] Gerando certificado
-- [ ] Usando certificado na prática
+- [x] O que é
+- [x] Custos
+- [x] Validade do certificado
+- [x] [Renovação do certificado](https://docs.aws.amazon.com/pt_br/acm/latest/userguide/managed-renewal.html)
+- [x] Gerando certificado
+- [x] Usando certificado na prática
 
 #### [RDS](https://aws.amazon.com/pt/rds/)
 - [ ] Tipos de banco de dados
