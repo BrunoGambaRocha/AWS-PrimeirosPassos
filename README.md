@@ -288,10 +288,14 @@
 - [x] Usando certificado na prática
 
 #### [RDS](https://aws.amazon.com/pt/rds/)
-- [ ] Tipos de banco de dados
-- [ ] Como criar um banco
-- [ ] Replicando entre zonas
-- [ ] Valores
+- [x] O que é
+- [x] Valores
+- [x] Tipos de banco de dados
+- [x] Como criar um banco
+- [x] Replicando entre zonas
+- [x] Importando e Exportando
+	- [Importar e exportar bancos de dados do SQL Server](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html)
+	- [Bancos de dados de exemplo do AdventureWorks](https://docs.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
 #### [S3 - Object Storage](https://aws.amazon.com/pt/s3/)
 - [ ] Criando bucket
