@@ -298,29 +298,36 @@
 	- [Bancos de dados de exemplo do AdventureWorks](https://docs.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
 #### [S3 - Object Storage](https://aws.amazon.com/pt/s3/)
-- [ ] Criando bucket
-- [ ] Tipos de armazenamento
-- [ ] Replicando entre regiões
-- [ ] Criando site estático
+- [x] O que é
+- [x] Tipos de armazenamento
+- [x] Valores
+- [x] Criando bucket
+- [x] Replicando entre regiões
+- [x] Criando site estático
+- [x] Criando site estático com HTTPS e CloudFormation
+	- [Conceitos básicos de um site estático seguro](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/getting-started-secure-static-website-cloudformation-template.html)
+	- [Invalidar arquivos CloudFront](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html)
+	- [Content Security Policy](https://developers.google.com/web/fundamentals/security/csp)
+	- [Link para meu teste Site Estático](https://app.eusoucloud.tk/)
 
 #### [Glacier](https://docs.aws.amazon.com/glacier/index.html)
-- [ ] Ciclo de armazenamento com Glacier
-- [ ] Configurando backup com o Glacier
-- [ ] Restaurando arquivos do Glacier
-- [ ] Valores
+- [x] Ciclo de armazenamento com Glacier
+- [x] Configurando backup com o Glacier
+- [x] Restaurando arquivos do Glacier
+- [x] Valores
 
 #### [CloudFront](https://docs.aws.amazon.com/pt_br/pt_br/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-- [ ] Como configurar uma CDN
-- [ ] Criando distribuição
-- [ ] Monitoramento e alarmes
-- [ ] Relatórios de cache
+- [x] Como configurar uma CDN
+- [x] Criando distribuição
+- [x] Monitoramento e alarmes
+- [x] Relatórios de cache
 
 #### [CloudFormation](https://docs.aws.amazon.com/cloudformation/index.html)
-- [ ] Automatizado a criação de recursos
-- [ ] Criando um stack
-- [ ] Transformando toda sua infra em código
-- [ ] Criando um script
-- [ ] Criando a estrutura pelo código
+- [x] Automatizado a criação de recursos
+- [x] Criando um stack
+- [x] Transformando toda sua infra em código
+- [x] Criando um script
+- [x] Criando a estrutura pelo código
 
 #### [Lambda](https://docs.aws.amazon.com/lambda/index.html)
 - [ ] O que é functions as a service
@@ -406,7 +413,7 @@
 		- [Documentação](https://github.com/aws/aws-cli/tree/develop/awscli/examples)
 		- [Repositório Exemplos](https://docs.aws.amazon.com/pt_br/cli/)
 - [x] Reunião Zoom 10/01/2022
-- [ ] Reunião Zoom 17/01/2022
+- [x] Reunião Zoom 17/01/2022
 
 
 ### Mentoria VIP
@@ -418,7 +425,7 @@
 - [x] Reunião Zoom 09/12/2021
 - [x] Reunião Zoom 16/12/2021
 - [x] Reunião Zoom 13/01/2022
-- [ ] Reunião Zoom 20/01/2022
+- [x] Reunião Zoom 20/01/2022
 
 
 ### Mentoria Individual - Leandro Porciuncula
